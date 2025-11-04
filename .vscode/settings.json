@@ -1,0 +1,6 @@
+{
+  "dbt-xfusion.previewCte": true,
+  "dbt-xfusion.enableTelemetry": false,
+  "dbt-xfusion.autoCompile": true,
+  "dbt-xfusion.previewRowLimit": 500
+}
